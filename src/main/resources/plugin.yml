@@ -1,0 +1,9 @@
+name: PlayerBot
+version: ${project.version}
+main: com.adrianwowk.playerbot.PlayerBot
+api-version: 1.16
+prefix: PlayerBot
+authors: [ Wowkster ]
+description: Spawn a player bot with a command, and use it to preform several actions
+commands:
+  bot:
